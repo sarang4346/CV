@@ -1,1 +1,8 @@
+.Edu_Q,th,td{
+    border:1px solid black;
+}
+.img{
+    display: block;
+    float: right;
+}
 
